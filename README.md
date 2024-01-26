@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm W.Manupa Gagana Kumara</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manupagagana&label=Profile%20views&color=0e75b6&style=flat" alt="manupagagana" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manupagagana&label=Profile%20views&color=0e75b6&style=flat" alt="manupagagana" /> </p>
 
 - 🔭 I’m currently Studying on **Arawwala Dharmapala Maha Vidyalawa**
 
