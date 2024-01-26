@@ -4,7 +4,6 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
 </p>
-<p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manupagagana&label=Profile%20views&color=0e75b6&style=flat" alt="manupagagana" /> </p>
 
@@ -26,6 +25,44 @@
 
 - ⚡ Fun fact **Gagana Kumara**
 
+  #### A little more about me
+```javascript
+const badri = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
+  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
+      backend: ["Flask", "JS"],
+  }
+}
+```
+
+#### I'm an Early 🐤
+```text
+🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   12.5% 
+🌆 Daytime    205 commits    ████████████░░░░░░░░░░░░░   54.5% 
+🌃 Evening    82 commits     ██████░░░░░░░░░░░░░░░░░░░   20.5% 
+🌙 Night      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
+```
+
+#### I Spent My Time On
+```text
+💬 Programming Lanuages:
+HTML                     3 hr 50 mins        ███████████░░░░░░░░░░░░░░   46% 
+CSS                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   30% 
+Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10% 
+GitHub & Git             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   9.5%
+
+🔥 Editors:
+VS Code                  4 Hours            ██████████████░░░░░░░░░░░   50% 
+Atom                     1 Hour             ██████████████░░░░░░░░░░░   50%
+
+💻 Operating System:
+Linux Ubuntu             14 hrs 2 mins      █████████████████████████   100.0%
+```
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
@@ -37,3 +74,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/manupagagana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/manupagagana" /></a></p><br><br>
+
+------
+Credit:https://github.com/Gaganakumara123
+Last Edited on: 26/01/2023.
