@@ -15,6 +15,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manupagagana&label=Profile%20views&color=0e75b6&style=flat" alt="manupagagana" /> </p>
 
+<br>
+
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
 - 🔭 I’m currently Studying on **Arawwala Dharmapala Maha Vidyalawa**
 
 - 🌱 I’m currently learning **python / C++ / C# / Java / Java Script**
