@@ -38,6 +38,16 @@ const badri = {
 }
 ```
 
+### Github Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gaganakumara123&theme=radical&background=0A0A0A&stroke=CDB4DB&ring=CDB4DB&currStreakNum=D3D3D3&sideNums=D3D3D3&dates=CDB4DB)](https://git.io/streak-stats)
+<br />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaganakumara123&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Sajidul Kbair Github Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganakumara123&layout=compact&theme=dark&bg_color=0A0A0A" alt="Sajidul Kabir Top Languages"/>
+<br />
+
 #### I'm an Early 🐤
 ```text
 🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   12.5% 
